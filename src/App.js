@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar/NavBar";
 
 function App() {
   return (
-    <div className="App-container">
+    <div className="app-container">
       <NavBar />
       <div className="rectangle-container">
         <WebPage />
